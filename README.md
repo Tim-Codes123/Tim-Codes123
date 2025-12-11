@@ -14,5 +14,3 @@ Ich hab keinen perfekten Abschluss – dafür aber funktionierenden Code.
 - Zocke viel, code aber noch mehr
 - Kaffee ist mein Treibstoff
 - Motivation > Zeugnis
-
-tim-codes123.github.io · 2025
