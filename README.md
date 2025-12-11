@@ -1,16 +1,18 @@
-## Hi there 👋
+Moin! 👋
 
-<!--
-**Tim-Codes123/Tim-Codes123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin **Tim**, Python-Entwickler aus Deutschland.
 
-Here are some ideas to get you started:
+Bringe mir selber Python bei – nachts um 3 Uhr, weil es Spaß macht.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Was ich schon gebaut hab:
+- Discord-Bot mit !ping, !clear, !wetter, !todo, !meme
+- Hangman Deluxe mit ASCII-Galgen
+
+Ich hab keinen perfekten Abschluss – dafür aber funktionierenden Code.
+
+### Fun Facts:
+- Zocke viel, code aber noch mehr
+- Kaffee ist mein Treibstoff
+- Motivation > Zeugnis
+
+tim-codes123.github.io · 2025
